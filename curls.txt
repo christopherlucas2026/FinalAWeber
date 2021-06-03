@@ -1,0 +1,6 @@
+curl http://0.0.0.0:5000/widgets
+curl -X POST  -d "name=spinBack&parts=2" http://0.0.0.0:5000/widget
+curl -X PUT  -d "name=spinBack&parts=62" http://0.0.0.0:5000/widget
+curl http://0.0.0.0:5000/widget/spinBack
+curl http://0.0.0.0:5000/widgets
+curl -X DELETE  -d "name=spinBack&parts=2" http://0.0.0.0:5000/widget

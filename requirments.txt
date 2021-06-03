@@ -1,0 +1,6 @@
+Flask
+Flask-RESTful
+Flask-SQLAlchemy
+flask_swagger_ui
+flask-restful-swagger-3
+pytest
