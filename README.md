@@ -1,10 +1,12 @@
 # FinalAWeber
 
 
-To Initialize run the following commands
-python3 -m venv .venv
-source .venv/bin/activate
-bash ./env_setup.sh
-
-To Run the API
-python3 app.py
+To Initialize run the following commands<br />
+----------------------------------------
+python3 -m venv .venv<br />
+source .venv/bin/activate<br />
+bash ./env_setup.sh<br />
+<br /><br />
+To Run the API<br />
+--------------
+python3 app.py<br />
